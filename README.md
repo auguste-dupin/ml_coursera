@@ -41,7 +41,7 @@ By the end of this Specialization, students will be ready to:
 
 # Technologies used
 
-This courses is taught using the Python Programming Language. Some packages used during this course:
+This specialization is taught using the Python Programming Language. Some packages used during this course:
 
 * Scikit-Learn
 * Numpy
